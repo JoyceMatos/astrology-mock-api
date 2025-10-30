@@ -1,0 +1,4 @@
+{
+  "baseURL": "https://joycematos.github.io/astrology-mock-api/data/",
+  "signs": ["aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces"]
+}
